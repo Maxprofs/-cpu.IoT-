@@ -1,0 +1,155 @@
+
+CII Best Practices
+curl
+  
+Projects that follow the best practices below can voluntarily self-certify and show that they've achieved a Core Infrastructure Initiative (CII) badge. 
+
+If this is your project, please show your badge status on your project page! The badge status looks like this:  Badge level for project 63 is passing Here is how to embed it:  
+
+These are the Passing level criteria. You can also view the Silver or Gold level criteria.
+
+
+
+ Basics 12/12 ●
+Identification
+What is the human-readable name of the project? 
+curl
+What is a brief description of the project?
+curl is a command line tool and library for internet transfers
+
+What is the URL for the project (as a whole)?
+https://curl.haxx.se
+What is the URL for the version control repository (it may be the same as the project URL)?
+https://github.com/curl/curl
+What programming language(s) are used to implement the project?
+Implementation languages
+C
+What is the Common Platform Enumeration (CPE) name for the project (if it has one)?
+(Optional) CPE name
+Basic project website content
+
+Enough for a badge! 
+Met
+Unmet
+?
+
+The project website MUST succinctly describe what the software does (what problem does it solve?). [description_good] 
+
+Enough for a badge! 
+Met
+Unmet
+?
+
+The project website MUST provide information on how to: obtain, provide feedback (as bug reports or enhancements), and contribute to the software. [interact]
+
+Enough for a badge! 
+Met
+Unmet
+?
+
+The information on how to contribute MUST explain the contribution process (e.g., are pull requests used?) (URL required) [contribution] 
+Non-trivial contribution file in repository: https://github.com/curl/curl/blob/master/CONTRIBUTING.md.
+
+
+Enough for a badge! 
+Met
+Unmet
+?
+
+The information on how to contribute SHOULD include the requirements for acceptable contributions (e.g., a reference to any required coding standard). (URL required) [contribution_requirements]
+https://curl.haxx.se/dev/contribute.html
+
+
+FLOSS license
+What license(s) is the project released under? 
+License
+MIT
+
+
+Enough for a badge! 
+Met
+Unmet
+?
+
+The software produced by the project MUST be released as FLOSS. [floss_license] 
+The MIT license is approved by the Open Source Initiative (OSI).
+
+
+Enough for a badge! 
+Met
+Unmet
+?
+
+It is SUGGESTED that any required license(s) for the software produced by the project be approved by the Open Source Initiative (OSI). [floss_license_osi]
+The license is MIT/X The MIT license is approved by the Open Source Initiative (OSI).
+
+
+Enough for a badge! 
+Met
+Unmet
+?
+
+The project MUST post the license(s) of its results in a standard location in their source repository. (URL required) [license_location] 
+Non-trivial license location file in repository: https://github.com/curl/curl/blob/master/COPYING.
+
+
+Documentation
+
+Enough for a badge! 
+Met
+Unmet
+N/A
+?
+
+The project MUST provide basic documentation for the software produced by the project. [documentation_basics] 
+
+Enough for a badge! 
+Met
+Unmet
+N/A
+?
+
+The project MUST provide reference documentation that describes the external interface (both input and output) of the software produced by the project. [documentation_interface] 
+Other
+
+Enough for a badge! 
+Met
+Unmet
+?
+
+The project sites (website, repository, and download URLs) MUST support HTTPS using TLS. [sites_https] 
+
+Enough for a badge! 
+Met
+Unmet
+?
+
+The project MUST have one or more mechanisms for discussion (including proposed changes and issues) that are searchable, allow messages and topics to be addressed by URL, enable new people to participate in some of the discussions, and do not require client-side installation of proprietary software. [discussion] 
+GitHub supports discussions on issues and pull requests.
+
+
+Enough for a badge! 
+Met
+Unmet
+?
+
+The project SHOULD provide documentation in English and be able to accept bug reports and comments about code in English. [english] 
+
+(Advanced) Disable inactivity reminder (we recommend you leave this unchecked; note that project entries must be edited to change whether or not reminders are sent)
+(Advanced) What other users have additional rights to edit this badge entry? Currently: [] 
+
+Other general comments about the project:
+ Change Control 9/9 ●
+ Reporting 8/8 ●
+ Quality 13/13 ●
+ Security 16/16 ●
+ Analysis 8/8 ●
+This data is available under the Creative Commons Attribution version 3.0 or later license (CC-BY-3.0+). All are free to share and adapt the data, but must give appropriate credit. Please credit Daniel Stenberg and the CII Best Practices badge contributors.
+
+Project badge entry owned by: Daniel Stenberg.
+Entry created on 2016-02-15 18:53:27 UTC, last updated on 2018-09-14 20:08:19 UTC. Last achieved passing badge on 2016-03-24 20:14:00 UTC. 
+
+Back
+
+Need help? Have a question? See a problem? Please send an email or file an issue. © 2015-2018 Core Infrastructure Initiative, a Linux Foundation Collaborative Project. All Rights Reserved. Please see our privacy policy and terms of use.
+Fastly logo
